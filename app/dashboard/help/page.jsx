@@ -5,7 +5,7 @@ const HelpPage = () => {
     <div className="min-h-screen bg-[#171717] text-whitesmoke">
       <div className="container mx-auto px-6 py-12">
         <h1 className="text-3xl font-semibold text-center mb-8">
-          Help & Support
+          Help &amp; Support
         </h1>
 
         <section className="mb-8">
@@ -16,8 +16,8 @@ const HelpPage = () => {
             <div className="bg-[#1f1f1f] p-4 rounded-lg">
               <h3 className="font-medium">How do I reset my password?</h3>
               <p>
-                If you are forgotten your password, you can reset it by clicking
-                the Forgot Password link on the login page.
+                If you&apos;ve forgotten your password, you can reset it by
+                clicking the Forgot Password link on the login page.
               </p>
             </div>
             <div className="bg-[#1f1f1f] p-4 rounded-lg">
@@ -25,15 +25,15 @@ const HelpPage = () => {
                 How can I update my monthly budget?
               </h3>
               <p>
-                You can update your budget by going to the "Settings" page and
-                adjusting the "Monthly Budget Limit" field.
+                You can update your budget by going to the &quot;Settings&quot;
+                page and adjusting the &quot;Monthly Budget Limit&quot; field.
               </p>
             </div>
             <div className="bg-[#1f1f1f] p-4 rounded-lg">
               <h3 className="font-medium">Can I export my expenses?</h3>
               <p>
                 Yes, you can export your expense reports as CSV files by
-                clicking the "Export" button on the Dashboard.
+                clicking the &quot;Export&quot; button on the Dashboard.
               </p>
             </div>
           </div>
