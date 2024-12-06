@@ -16,7 +16,7 @@ const HelpPage = () => {
             <div className="bg-[#1f1f1f] p-4 rounded-lg">
               <h3 className="font-medium">How do I reset my password?</h3>
               <p>
-                If you've forgotten your password, you can reset it by clicking
+                If you are forgotten your password, you can reset it by clicking
                 the "Forgot Password" link on the login page.
               </p>
             </div>

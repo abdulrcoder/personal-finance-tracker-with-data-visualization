@@ -85,7 +85,7 @@ export default function Home() {
               Budget Management
             </h3>
             <p className="text-gray-300 text-center">
-              Set custom budgets and get alerts when you're nearing your
+              Set custom budgets and get alerts when you are nearing your
               spending limits.
             </p>
           </div>
